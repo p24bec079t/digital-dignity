@@ -1,4 +1,5 @@
-## 🧭 Digital Dignity
+## ![Digital Dignity](src/components/layout/dig-dignity.png)
+Digital Dignity
 
 
 **First Aid for Digital Harm**
